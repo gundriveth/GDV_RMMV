@@ -2,13 +2,13 @@
 // PluginName.js
 //=============================================================================
 /*:
- * @plugindesc Description of your plugin
+ * @plugindesc Make the character jump everytime you press directional move.
  *
  * @author Gundriveth
  *
  * @help
  *
- * Anything users might need to know about using your plugin.
+ * Plug and play.
  *
  * TERMS OF USE
  * You can use the plugin in your project. Don't forget to credit me :)
